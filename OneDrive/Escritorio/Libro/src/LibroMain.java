@@ -15,5 +15,13 @@ public class LibroMain {
         
         System.out.println("\nEstado final:");
         System.out.println(librito1);  
+        
+        
+        System.out.println("\n LIBRO 2");
+        
+        Libro librito2 = new Libro("", "", 0, 0);
+        librito2.imprimir();
+        
+        
     }
 }
